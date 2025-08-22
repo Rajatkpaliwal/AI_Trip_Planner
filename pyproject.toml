@@ -2,6 +2,9 @@
 name = "ai-trip-planner"
 version = "0.1.0"
 description = "Add your description here"
+authors = [
+  { name = "Rajat Kumar Paliwal" }
+]
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.10"
 dependencies = []
