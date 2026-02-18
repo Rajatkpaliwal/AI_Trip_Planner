@@ -192,7 +192,7 @@ http://localhost:3000
 ## 👨‍💻 Author
 
 **Rajat Kumar Paliwal**  
-🎓 Computer Science Engineer | AI + LangChain Developer  
+🎓 Computer Science Engineer | AI/ML Engineer 
 
 🔗 GitHub: [Rajatkpaliwal](https://github.com/Rajatkpaliwal)
 
@@ -202,3 +202,4 @@ http://localhost:3000
 
 If you find this project useful, please give it a ⭐ on GitHub.  
 It motivates me to build more AI-powered applications!
+
